@@ -1,1 +1,1 @@
-# wechat3.7.1
+# WeChat 3.7.1-macOS
